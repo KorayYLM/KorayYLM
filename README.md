@@ -1,7 +1,33 @@
-👋 Hi, I’m @KorayYLM
-👀 I’m interested in software development, web development, and all things tech!
-🌱 I’m currently learning Java, Python, C#, HTML, CSS, and JavaScript as part of my ICT studies.
-💞️ I’m looking to collaborate on exciting coding projects, open-source contributions, and innovative tech solutions.
-📫 How to reach me: You can reach me via [korayavans@gmail.com] or connect with me on LinkedIn.
-😄 Pronouns: He/Him
+# 👋 Hi, I'm Koray!  
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Developer+in+the+making;Tech+Enthusiast;Open+Source+Contributor;Always+Learning+🚀)
+
+---
+
+## 🚀 About Me
+- 👀 Interested in **Software & Web Development**
+- 🌱 Currently learning: `Java`, `Python`, `C#`, `HTML`, `CSS`, `JavaScript`
+- 💞️ Looking to collaborate on **open-source & coding projects**
+- 📫 Reach me: **korayavans@gmail.com** | [LinkedIn](https://www.linkedin.com)
+- 😄 Pronouns: He/Him  
+
+---
+
+## ⚡ Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=KorayYLM&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=KorayYLM&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KorayYLM&layout=compact&theme=tokyonight)
+
+---
+
+✨ _"Code. Learn. Share. Repeat."_ ✨
